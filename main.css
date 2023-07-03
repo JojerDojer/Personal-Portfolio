@@ -1,0 +1,129 @@
+/*
+============================================
+; Title: main.css
+; Author: John Davidson
+; Date: 07/2/2023
+; Description: The styling for my Personal Portfolio.
+============================================
+*/
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+/* LANDING PAGE STYLING */
+.home-content {
+  width: 960px;
+  margin: auto;
+}
+
+.intro {
+  width: 75%;
+  margin: auto;
+}
+
+.intro p {
+  font-size: 20px;
+  letter-spacing: .75px;
+  line-height: 1.3;
+
+}
+
+h2 {
+  text-align: center;
+}
+
+
+
+/* ABOUT PAGE STYLING */
+.app-header {
+  text-align: center;
+}
+
+.bio-content {
+  width: 960px;
+  margin: auto;
+}
+
+.bio-content p {
+  font-size: 20px;
+  letter-spacing: .75px;
+  line-height: 1.3;
+  width: 80%;
+  margin: auto;
+}
+
+
+
+/* HEADER STYLING */
+.nav-bar {
+  background-color: #b9e3ea;
+  padding: 10px;
+  text-align: center;
+}
+
+.nav-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: #333;
+  padding: 5px 10px;
+}
+
+.nav-link:hover {
+  background-color: #ddd;
+}
+
+
+
+ /* FOOTER STYLING */
+footer {
+  background-color: #b9e3ea;
+  padding: 10px;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  text-decoration: none;
+  color: #333;
+}
+
+footer a:hover {
+  background-color: #ddd;
+}
+
+
+/* CARD STYLING */
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 50%;
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-title {
+  text-align: center;
+  font-size: 2em;
+  color: #4F3674;
+  font-weight: 400;
+}
+
+.card-content {
+  padding: 2px 16px;
+}
