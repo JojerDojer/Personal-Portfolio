@@ -34,10 +34,10 @@ class Header extends HTMLElement {
           <ul class="nav-list">
             <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
             <li class="nav-item"><a href="about.html" class="nav-link">About</a></li>
-            <li class="nav-item"><a href="resume.html" class="nav-link">Resume</a></li>
             <li class="nav-item"><a href="projects.html" class="nav-link">Projects</a></li>
             <li class="nav-item"><a href="database-diagrams.html" class="nav-link">Database Diagrams</a></li>
             <li class="nav-item"><a href="api-unit-tests.html" class="nav-link">API Unit Tests</a></li>
+            <li class="nav-item"><a href="resume.html" class="nav-link">Resume</a></li>
             <li class="nav-item"><a href="bucket-list.html" class="nav-link">Bucket List</a></li>
           </ul>
         </div>
