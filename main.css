@@ -259,6 +259,12 @@ footer a:hover {
   padding: 5px;
 }
 
+/* DATABASE DIAGRAMS STYLING*/
+.db-image {
+  height: 325px;
+  width: 275px;
+}
+
 /* Individual card styling. */
 .project-card {
   margin: 20 auto;
