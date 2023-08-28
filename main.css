@@ -265,6 +265,11 @@ footer a:hover {
   width: 275px;
 }
 
+.node-book-co {
+  height: 300px;
+  width: 275px;
+}
+
 /* Individual card styling. */
 .project-card {
   margin: 20 auto;
