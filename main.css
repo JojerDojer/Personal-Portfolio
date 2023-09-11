@@ -270,6 +270,14 @@ footer a:hover {
   width: 275px;
 }
 
+/* API UNIT TEST STYLING */
+.api-image {
+  max-width: 100%;
+  height: 325px;
+}
+
+
+
 /* Individual card styling. */
 .project-card {
   margin: 20 auto;
