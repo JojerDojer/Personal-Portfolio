@@ -86,7 +86,6 @@ body {
   border: 2px solid #9AC8D2;
 }
 
-
 /* ABOUT PAGE STYLING */
 
 .bio-content {
@@ -364,6 +363,23 @@ hr {
 .download a {
   color: #9AC8D2;
 }
+
+/* PRESENTATION STYLING */
+
+.presentations {
+  margin-top: 125px;
+}
+
+.presentation-link {
+  font-size: 20px;
+  color: #9AC8D2
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+}
+
 
 
 
