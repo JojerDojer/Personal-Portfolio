@@ -368,6 +368,7 @@ hr {
 
 .presentations {
   margin-top: 125px;
+  margin-bottom: 50px;
 }
 
 .presentation-link {
@@ -379,6 +380,7 @@ hr {
   display: flex;
   justify-content: center;
 }
+
 
 
 
